@@ -55,7 +55,13 @@
     
 ### 国外
   
+* [/r/technology](https://www.reddit.com/r/technology/)
 
+    简介：“For all things technology”
+    栏目：比特币、商业、政治、网络中立、软件、系统安全、AI、硬件、讨论
+    新闻来源：站点用户发布站外的科技文章供大家讨论（讨论栏目除外）
+    Alexa 排名：3(美国) <sup>1</sup>
+    
 * [engadget](https://cn.engadget.com/)
 
     简介：互联生活向导  
@@ -76,7 +82,7 @@
     栏目：新闻、评论、问答、Showcase、工作机会  
     新闻来源: 站点用户  
     Alexa 排名： 616(美国) 
-
+    
 * [slashdot](https://slashdot.org/)
 
     简介：“News for Nerds. Stuff that Matters”   
@@ -85,6 +91,17 @@
     Alexa 排名： 1919(美国)    
     [wiki](https://en.wikipedia.org/wiki/Slashdot)
     
-    
-    
+* [TechSpot](https://www.techspot.com)
+
+    简介：“for Tech Enthusiasts - Power Users - IT Professionals - Gamers”  
+    详细简介：
+TechSpot delivers breaking tech news and analysis to an audience of professionals and enthusiasts who crave for technical depth and want to learn about the latest digital trends. TechSpot's news coverage is complemented by comprehensive **product reviews, guides and longform features, software recommendations, and a massive product database**. TechSpot is also a tech **enthusiast community** at heart, with hundreds of active discussions posted daily by our readers.  
+    栏目：科技趋势、精选文章、科技评测、最佳推荐、软件下载、科技产品数据库、科技爱好者论坛   
+    新闻来源：站点编辑 
+    Alexa 排名： 3018(美国)    
+
+
+
+1. 仅有Reddit.com 排名信息。
+2. 详细简介来自官网，其中对读者有价值的信息会标记成粗体。
     
