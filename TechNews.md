@@ -45,7 +45,7 @@
     新闻来源: 站点编辑  
     Alexa 排名： 2070(中国)
     
-* [ReadHub](https://readhub.me/)
+* [ReadHub](https://readhub.cn/)
 
     简介：每天三分钟的科技新闻聚合阅读  
     栏目：热门话题、科技动态、开发者资讯  
